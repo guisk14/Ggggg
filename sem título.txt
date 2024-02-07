@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meu Site de Classificados</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .header {
+            background-color: #f8f9fa;
+            text-align: center;
+            padding: 20px;
+        }
+        .ad-listing {
+            margin: 20px;
+            padding: 20px;
+            border: 1px solid #ddd;
+        }
+        .whatsapp-button {
+            display: inline-block;
+            background-color: #25D366;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Meu Site de Classificados</h1>
+    </div>
+    <div class="ad-listing">
+        <h2>Titulo do Anúncio</h2>
+        <p>Descrição do anúncio...</p>
+        <a href="https://wa.me/5513997400545" class="whatsapp-button">Clique aqui</a>
+    </div>
+    <!-- Adicione mais listagens de anúncios aqui -->
+</body>
+</html>
